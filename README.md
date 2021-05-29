@@ -1,3 +1,15 @@
+Chat App/Contact Us 
+
+To start:
+
+npm install firebase
+  - change firebase to your own db
+  
+npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
